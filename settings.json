@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AYMEN21232.aternos.me",
+    "ip": "AYMEN21232.aternos.me:17454",
     "port": 17454,
-    "version": "1.21.1 ",
+    "version": "1.21.10 ",
     "try-creative": false
   },
   "position": {
