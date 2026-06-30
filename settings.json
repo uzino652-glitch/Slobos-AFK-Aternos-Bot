@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ARISNEW",
+    "username": "SRVBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "AYMEN21232.aternos.me:17454",
+    "ip": "Dzmchub.aternos.me",
     "port": 17454,
-    "version": "1.21.10 ",
+    "version": "1.20.1 ",
     "try-creative": false
   },
   "position": {
