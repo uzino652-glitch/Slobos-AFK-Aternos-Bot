@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dzmchub.aternos.me",
-    "port": 17454,
-    "version": "1.21.4 (4458) ",
+    "ip": "dzserv.aternos.me",
+    "port": 19008,
+    "version": "1.21.4 ",
     "try-creative": false
   },
   "position": {
